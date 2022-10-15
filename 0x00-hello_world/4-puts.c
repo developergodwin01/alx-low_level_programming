@@ -1,9 +1,9 @@
 #include <stdio.h>
-/**
- *  *main- Serves as the entry point for the program
- *   *
- *    *Return: 0
- *     */
+/*
+ *  main - print a line of the code using puts
+ *   
+ *   Return: 0
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
