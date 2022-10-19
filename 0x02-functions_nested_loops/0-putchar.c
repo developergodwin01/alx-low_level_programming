@@ -1,14 +1,13 @@
 #include "main.h"
 
 /**
- * main - print put char
- * is written by Godwin Egba
- * Return: 0
+ * main - print _putchar
+ * Return: Always 0
  */
 
 int main(void)
 {
-_putchar('_');
+putchar(");
 _putchar('p');
 _putchar('u');
 _putchar('t');
